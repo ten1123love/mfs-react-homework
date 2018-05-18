@@ -1,8 +1,0 @@
-function (err,data){
-        if(err){
-            console.log(err.toString);
-            return;
-        }else{
-            console.log(data);
-        }
-    }
